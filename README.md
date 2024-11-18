@@ -10,6 +10,8 @@ organizations find it hard to pinpoint specific skills gaps, hindering employee 
 suggest developing a model to identify these gaps based on job descriptions and employee skills, 
 recommending personalized training paths. Techniques like NLP, Time Series Analysis, 
 Clustering, and Recommendation Systems will be used to create a comprehensive solution. 
+
+
 Plan 
 Objectives 
 Primary Goal: Improve employee satisfaction and career mobility by optimizing the onboarding 
@@ -32,6 +34,8 @@ role fit based on employees’ skills, aspirations, and feedback.
 Recommendation System: 
 Build a recommendation engine for job matching, applying techniques like collaborative 
 filtering and content-based recommendations. 
+
+
 Project Phases and Timeline 
 Phase 1 (Weeks 1-2): Data Collection and Preprocessing 
 • Gather data on employee skills, job descriptions, and onboarding feedback. 
@@ -66,6 +70,7 @@ checks to promote equity.
 collection. 
 • Mitigation: Automate feedback collection at key milestones to ensure timely and consistent 
 data. 
+
 Expected Outcomes 
 • A structured system for real-time tracking and evaluation of onboarding processes. 
 • A recommendation engine to assist HR in identifying skill-aligned internal roles, increasing 
